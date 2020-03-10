@@ -1,5 +1,6 @@
-:root {
-    --primary:#cccccc;
+body{
+    background-color: #91e084  ;
+    color:#555;
 }
 h1, h2{
     text-align:center;

@@ -26,10 +26,16 @@
                         <a class="nav-link" href="#">Counselling & Services <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="{{URL('/#meet')}}">Meet the Team</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="{{URL('/charitable_foundations')}}">Charitable Foundations</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{URL('/publications')}}">Publications, shop</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{URL('/contact_us')}}">Contact us</a>
                     </li>
                 </ul>
             </div>

@@ -17,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::get('/', 'Home@index');
+Route::get('/charitable_foundations', 'Home@charitable_foundations');
