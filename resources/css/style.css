@@ -1,11 +1,43 @@
-body{
-    background-color: #91e084  ;
-    color:#555;
-}
-h1, h2{
-    text-align:center;
+body {
+    background-color: #91e084;
+    color: #555;
+
 }
 
-h1, h2, h3, h4 {
-    padding:30px 0px 30px 0px;
+html,
+body {
+
+    scroll-padding-top: 70px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    padding: 30px 0px 30px 0px;
+}
+
+table td,
+th {
+    color: #333;
+}
+
+h1:before {
+    display: block;
+    content: " ";
+    height: 75px;
+    visibility: hidden;
+}
+h2:before
+{
+    display: block;
+    content: " ";
+    margin-top: -100px;
+    height: 62px;
+    visibility: hidden;
 }
