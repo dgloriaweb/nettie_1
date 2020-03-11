@@ -1,4 +1,11 @@
 <hr>
+
+<h2>About Us</h2>
+<p>Challenging-Behaviour Counselling & Wellbeing Services was Founded in 2015. Challenging-Behaviour Counselling Wellbeing Foundation was Founded in 2017.</p>
+<p>At Challenging-Behaviour we are focused on providing Person Centered Experience.</p>
+<p>We work within a Person Centered Approach using variety of styles of Creative therapy, Behaviour Strategies, General Psychology, Psychoeducation, Counselling and Life coach therapies. </p>
+<p>Feel free to look around our website and if you have any comments or questions, please do contact us. Check back later for new updates to our website. There's much more to come</p>
+
 <div class="parenting" id="parenting">
     <h2>Parenting Advice & Workshops</h2>
 
@@ -48,11 +55,6 @@
     </ul>
 </div>
 
-<!--  **********************  -->
-<hr>
-<h2>Testimonials</h2>
-
-<!--  ********** Meet the team ************  -->
 <hr>
 <div class="meet" id="meet">
 
@@ -63,10 +65,15 @@
 <!--  **********************  -->
 <hr>
 <div class="charitable_foundations" id="charitable_foundations">
-    <h2>Charitable foundation</h2>
-    <h3>Friends of Challenging-Behaviour</h3>
+    <h2>Charitable foundation - Friends of Challenging-Behaviour</h2>
+    <h4>Raising funds for Charitable Counselling Work for Children and Adults.</h4>
 
-    <p>Raising funds for Charitable Counselling Work for Children and Adults.</p>
+    <p>This is our Fundraising department for our charitable company Challenging-Behaviour Counselling Wellbeing Foundation. We are able subsidise people with discounted or entirely.</p>
+    <p>If you would like to donate you can do through Paypal: challenging-behaviour@hotmail.co.uk</p>
+    <p>
+        (There is a criteria to be met for discounted and free Counselling, sadly funds are limited so all the people asking will not get full funding)
+    </p>
+
 
     <h4>Contact details:</h4>
     <li>Telephone / Text: 07768303640</li>
@@ -168,6 +175,7 @@
 
 
 </div>
+
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
