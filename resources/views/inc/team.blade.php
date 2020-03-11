@@ -1,4 +1,5 @@
 <h2>Meet the team</h2>
+<div class="container">
 <p>Members of our team; Each Therapist works as an individual. Each Therapist adheres to the membership rules of practice to their awarding body BACP. Each Therapist is  DBS checked. Each Therapist is insured. Each Therapist works within the safe, warm supportive environment of Challenging-behaviour. Each Therapist is accountable for confidentiality and an ethical code of practice and to adhere to the companies policies and procedures.</p>
 
 <!--  NETTIE -->
@@ -100,7 +101,7 @@ Working over 30 years in the world of Families; Adults and Children has given me
 
 <h3>Bola</h3>
 
-<p>My name is Abolanle Aloluwaloba, known as Bola. </>
+<p>My name is Abolanle Aloluwaloba, known as Bola. </p>
 <p>
     My theory is Person centred also known as Rogerian theory. I am a trainee Counsellor and a hypnotherapist with ability to use variety of other counselling theories. I have experience with vulnerable and SEN children and adults, also I am a volunteer for Challenging-Behaviour Counselling Wellbeing Foundation.
 
@@ -108,3 +109,4 @@ Working over 30 years in the world of Families; Adults and Children has given me
 <h3>Nadine</h3>
 <p>I am a trainee Counsellor and a volunteer for Challenging-Behaviour Counselling Wellbeing Foundation.</p>
 
+</div>

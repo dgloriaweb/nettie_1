@@ -10,9 +10,18 @@ body {
     scroll-padding-top: 70px;
 }
 
+h1 a {
+    color:#599c26 !important;
+}
+
+.bg-primary {
+    background-color:#599c26 !important;
+}
+
 h1,
 h2 {
     text-align: center;
+    background-color: #cbf3c5;
 }
 
 h1,

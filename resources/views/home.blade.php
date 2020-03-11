@@ -1,14 +1,15 @@
 <hr>
 
 <h2>About Us</h2>
+<div class="container">
 <p>Challenging-Behaviour Counselling & Wellbeing Services was Founded in 2015. Challenging-Behaviour Counselling Wellbeing Foundation was Founded in 2017.</p>
 <p>At Challenging-Behaviour we are focused on providing Person Centered Experience.</p>
 <p>We work within a Person Centered Approach using variety of styles of Creative therapy, Behaviour Strategies, General Psychology, Psychoeducation, Counselling and Life coach therapies. </p>
 <p>Feel free to look around our website and if you have any comments or questions, please do contact us. Check back later for new updates to our website. There's much more to come</p>
-
+</div>
 <div class="parenting" id="parenting">
     <h2>Parenting Advice & Workshops</h2>
-
+<div class="container">
     <h4>Parenting workshops</h4>
     <p>Watch out for information. If there is specific parenting needs then let us know by contacting us.</p>
 
@@ -25,18 +26,21 @@
     </p>
 </div>
 
+</div>
 <!--  **********************  -->
 <hr>
 <div class="life_coaching" id="life_coaching">
     <h2>Life Coaching</h2>
+    <div class="container">
 
     <p>Lost your way? Need to discuss and get practical solutions? Then contact us.</p>
 </div>
-
+</div>
 <!--  **********************  -->
 <hr>
 <div class="" id="">
     <h2>Behaviour Strategies</h2>
+    <div class="container">
 
     <h3>What is Behaviour Strategy work?</h3>
     <p>Behaviour Strategy work is to help those who have behaviours that are not suiting themselves or suiting situations within society. It is a strategy to help you manage.</p>
@@ -54,7 +58,10 @@
         <li>Relationship strategies</li>
     </ul>
 </div>
+</div>
 
+
+<!--  **********************  -->
 <hr>
 <div class="meet" id="meet">
 
@@ -65,6 +72,7 @@
 <!--  **********************  -->
 <hr>
 <div class="charitable_foundations" id="charitable_foundations">
+<div class="container">
     <h2>Charitable foundation - Friends of Challenging-Behaviour</h2>
     <h4>Raising funds for Charitable Counselling Work for Children and Adults.</h4>
 
@@ -148,11 +156,13 @@
     </ul>
 
 </div>
+</div>
 
 <!--  **********************  -->
 <hr>
 <div class="counselling" id="counselling">
     <h2>Counselling</h2>
+    <div class="container">
 
     <h4>Charitable Criteria</h4>
     <p>For 1:1 Counselling those that are at need of mental health help, disadvantaged and vulnerable, through life circumstances, ill-health, disability, with financial deprivation can apply.</p>
@@ -175,11 +185,13 @@
 
 
 </div>
+</div>
 
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
     <h2>Wellbeing groups</h2>
+    <div class="container">
 
     <table class="table table-striped">
         <tr>
@@ -209,11 +221,13 @@
     </table>
 
 </div>
+</div>
 
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
     <h2>Supporters' Page</h2>
+    <div class="container">
 
     <h4>Entertainment</h4>
 
@@ -255,11 +269,13 @@
     </ul>
 
 </div>
+</div>
 
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
     <h2>Publications, shop</h2>
+    <div class="container">
 
     <h3>Books written and / or illustrated by Nettie Forsyth</h3>
     <a href="https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ANettie+Forsyth&s=relevancerank&text=Nettie+Forsyth&ref=dp_byline_sr_book_1" target="_blank">Nettie's books on Amazon.com</a>
@@ -281,15 +297,13 @@
     <p>Selling a range of hand crafted items & gifts to raise money for funding counselling for vulnerable & disadvantaged people. Through the Charitable Organisation Challenging-Behaviour Counselling Wellbeing Foundation.</p>
 
 </div>
+</div>
 
 <!--  **********************  -->
 <hr>
 <div class="pricing" id="pricing">
     <h2>Service Pricing</h2>
-
-
-
-
+    <div class="container">
     <h4>One to one counselling prices as of January 2018</h4>
 
     <table class="table table-striped">
@@ -337,14 +351,14 @@
         <li>We have the opportunity to provide reduced fee Counselling sessions by using our Student Trainee Counsellors. Subject to financial criteria.</li>
         <li>Please let us know when contacting, that you are looking for funding.</li>
     </ul>
-
-
+</div>
 </div>
 
 <!--  **********************  -->
 <hr>
 <div class="contact_us" id="contact_us">
     <h2>Client Testimonials</h2>
+    <div class="container">
 
     <blockquote class="blockquote">
         <p class="mb-0">Fantastic service, Nettie is truly a wonderful person, I took my 9 year old ASD son to sessions starting 6 months ago, due to behavioural difficulties, that were hugely impacting on family, school life. He is a different child then when he first started to now. His behaviour has improved dramatically. The family dynamic has healed and improved. My son is now accessing education and doing well in school.
@@ -393,11 +407,14 @@
     </blockquote>
 
 </div>
+</div>
 
 
 <!--  **********************  -->
 <hr>
 <div class="contact_us" id="contact_us">
     <h2>Contact Us</h2>
+<div class="container">
     <p>Interested in our services? Got a question? Then please get in touch with us via the form below and we'll get back to you as soon as possible!</p>
+</div>
 </div>
