@@ -171,11 +171,10 @@
             <th>Details</th>
         </tr>
         <tr>
-            <td>ART FOR WELLBEING for 16+</td>
-            <td>WEDNESDAY 7.30pm-9.30pm</td>
+            <td>Art for Wellbeing for 16+</td>
+            <td>Wednesdays 7.30pm-9.30pm</td>
             <td>
-                Run by Jo & Nettie
-                Donation £2 bring your own project. £5 do one of our project
+                Run by Jo & Nettie - Donation £2 bring your own project, £5 do one of our project
             </td>
         </tr>
         <tr>
@@ -184,12 +183,10 @@
             <td>For SEN Children</td>
         </tr>
         <tr>
-            <td>Martial Arts Kick Boxing</td>
+            <td>Martial Arts Kick Boxing for children & young people</td>
             <td></td>
             <td>
-                Run by Coach Andy from Temtdlar Martial Arts.
-                Supported by Volunteers and Counsellors.
-                Donation £2.50
+                Run by Coach Andy from Temtdlar Martial Arts - Supported by Volunteers and Counsellors - Donation £2.50
             </td>
         </tr>
     </table>
@@ -199,7 +196,64 @@
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
+    <h2>Supporters' Page</h2>
+
+    <h4>Entertainment</h4>
+
+    <li>Band Entertainment: Con-Tribute Contact: 07951240937</li>
+    <li>Disco Entertainment: DJ Chess Entertainments Contact: djchessentertainments@outlook.com</li>
+
+    <h4>Raffle & Auction Supporter Companies</h4>
+
+    <ul>
+        <li>Anna's Kitchen Dunstable. 01582 752869. 4 Houghton Road LU5 5AD.</li>
+        <li>Good Luck Cakery Dunstable. 07530919563. 90 Salters Way Dunstable LU61UG. www.thegoodluckcakery.</li>
+        <li>Nanna,s Christmas Puddings </li>
+        <li>Snakes and Ladders Dunstable</li>
+        <li>Reflexology by Maria 01908387643. 07941085505</li>
+        <li>Lush Studios 7Beauty Bar 01582969742</li>
+        <li>The Workhouse Ashton Square Dunstable</li>
+        <li>Forever Frames Zarah</li>
+        <li>Homemade hampers by Stacey </li>
+        <li>Anna's Kitchens 07771833255</li>
+        <li>Angel Feathers Reiki 07956803961</li>
+        <li>Clairvoyant Lisa Marie Doyle 07793864611</li>
+        <li>Go Houghton Regis 01525 863322. www.gohoughton.com</li>
+        <li>Individual Supporters:</li>
+        <li>Pauline- Chocolate Hamper</li>
+        <li>Nettie- M&S Cushion.</li>
+        <li>Sugar & Spice High street South</li>
+    </ul>
+
+
+    <h4>Organisations:</h4>
+    <li>Templer Martial Arts 07954601628</li>
+    <li>Lavender Interiors & Exteriors 07764686310</li>
+
+    <h4>Events:</h4>
+    <ul>
+        <li>Dunstable Town Council</li>
+        <li>Houghton Regis Town Council</>
+        <li>Leighton Buzzard Town Council</li>
+    </ul>
+
+</div>
+
+<!--  **********************  -->
+<hr>
+<div class="publications" id="publications">
     <h2>Publications, shop</h2>
+
+    <a href="https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ANettie+Forsyth&s=relevancerank&text=Nettie+Forsyth&ref=dp_byline_sr_book_1" target="_blank">Nettie's books on Amazon.com</a>
+
+    <p>
+        We can put an API here with all your amazon books, just like this one: <a href="https://dgloriaesyes.000webhostapp.com/projects/api_nyt_books/index.php/books" target="_blank">NYT api by Beatrix</a>
+
+    </p>
+    <p>
+        We can put other websites as well where they sell your books.
+    </p>
+
 
 </div>
 

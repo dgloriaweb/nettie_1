@@ -38,6 +38,6 @@ h2:before
     display: block;
     content: " ";
     margin-top: -100px;
-    height: 62px;
+    height: 100px;
     visibility: hidden;
 }
