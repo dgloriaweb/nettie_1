@@ -41,3 +41,7 @@ h2:before
     height: 100px;
     visibility: hidden;
 }
+
+footer.blockquote-footer {
+    color: #599c26;
+}

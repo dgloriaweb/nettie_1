@@ -131,6 +131,15 @@
 
     <p>Reference: donation Friends of Challenging-Behaviour</p>
     <p>Thank you! every little helps!</p>
+
+    <p>We'll discuss how can we setup paypal payment for these. Beatrix</p>
+
+    <ul>
+        <li>Fund a Child for 1:1 Therapy £35.00</li>
+        <li>Fund a Child for Group Therapy £10.00</li>
+        <li>Fund an Adult for 1:1 Therapy £40.00</li>
+    </ul>
+
 </div>
 
 <!--  **********************  -->
@@ -244,6 +253,7 @@
 <div class="publications" id="publications">
     <h2>Publications, shop</h2>
 
+    <h3>Books written and / or illustrated by Nettie Forsyth</h3>
     <a href="https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ANettie+Forsyth&s=relevancerank&text=Nettie+Forsyth&ref=dp_byline_sr_book_1" target="_blank">Nettie's books on Amazon.com</a>
 
     <p>
@@ -254,6 +264,13 @@
         We can put other websites as well where they sell your books.
     </p>
 
+    <br>
+    <p>Books can be ordered from <a href="https://wordzetcetera.org.uk/the-book-shop">the wordzetcetera.org.uk website</a>.</p>
+
+    <h3>Gifts and charity shop items</h3>
+
+    <a href="https://www.facebook.com/sellingforfriendsofchallengingbehaviour/" target="_blank">Odds & sods, bits & bobs on Facebook</a>
+    <p>Selling a range of hand crafted items & gifts to raise money for funding counselling for vulnerable & disadvantaged people. Through the Charitable Organisation Challenging-Behaviour Counselling Wellbeing Foundation.</p>
 
 </div>
 
@@ -262,7 +279,113 @@
 <div class="pricing" id="pricing">
     <h2>Service Pricing</h2>
 
+
+
+
+    <h4>One to one counselling prices as of January 2018</h4>
+
+    <table class="table table-striped">
+        <tr>
+            <th>Description</th>
+            <th>Duration</th>
+            <th>Fee</th>
+        </tr>
+        <tr>
+            <td>Adult Counselling </td>
+            <td>60 min </td>
+            <td>£45</td>
+        </tr>
+        <tr>
+            <td>Adult Counselling </td>
+            <td>90 min </td>
+            <td>£60</td>
+        </tr>
+        <tr>
+            <td>Children Counselling </td>
+            <td>45-60 min </td>
+            <td>£37.50</td>
+        </tr>
+        <tr>
+            <td>Couple Counselling</td>
+            <td>90 min </td>
+            <td>£70 </td>
+        </tr>
+        <tr>
+            <td>Students </td>
+            <td>60 min </td>
+            <td>£30</td>
+        </tr>
+    </table>
+
+    <h4>Conditions and Options</h4>
+
+    <ul>
+        <li>Groups per person variable to group</li>
+        <li>Funding can be got through Challenging-Behaviour Counselling Wellbeing Foundation. <a href="#charitable_foundation"> Read more...</a></li>
+
+        <li>Priority funding for Domestic Violence, Child abuse, Bullied Victims, then Long term illness and Carers.</li>
+        <li>ASD spectrum disorders will be also considered for funding if DLA/PIP is not awarded.</li>
+        <li>Other topics would be considered.</li>
+        <li>We have the opportunity to provide reduced fee Counselling sessions by using our Student Trainee Counsellors. Subject to financial criteria.</li>
+        <li>Please let us know when contacting, that you are looking for funding.</li>
+    </ul>
+
+
 </div>
+
+<!--  **********************  -->
+<hr>
+<div class="contact_us" id="contact_us">
+    <h2>Client Testimonials</h2>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">Fantastic service, Nettie is truly a wonderful person, I took my 9 year old ASD son to sessions starting 6 months ago, due to behavioural difficulties, that were hugely impacting on family, school life. He is a different child then when he first started to now. His behaviour has improved dramatically. The family dynamic has healed and improved. My son is now accessing education and doing well in school.
+            I would highly recommend and will be sad as it is time to finish.</p>
+        <footer class="blockquote-footer">AR Bedfordshire 2017</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">Before I came I gave you 0/10, after the first session I gave you 9/10 and then every session was 10/10. Thank you for helping me control my emotions.</p>
+        <footer class="blockquote-footer">OM Bucks 2016</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">Thank you for listening, for helping me to control my emotions and for helping my Mummy and Daddy to like me again.</p>
+        <footer class="blockquote-footer">MF Oxon 2016</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">She (the councellor) has strong and good working relationships with all of them.</p>
+        <footer class="blockquote-footer">CF Berkshire</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">She (the councellor) has an natural interest, kindness and understanding.</p>
+        <footer class="blockquote-footer">DB Buckinghamshire 2016</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">(the councellor is) Practical, has good sense and unfailing cheerfulness has been a joy to know and support to me</p>
+        <footer class="blockquote-footer">JY Buckinghamshire</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">Can't believe it took 3 sessions to make me happy and changed my life</p>
+        <footer class="blockquote-footer">EH Oxon 2015</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">My life was blessed by meeting Nettie. I thought that this was it; Anxiety and Alcoholism, Domestic Violence Trauma. On a family member saying counselling or it; I chose another chance at counselling. Nettie is unlike most other counsellors I have met. She saved my Life and gave me back my Family. I will be eternally grateful for the help she gave me.</p>
+        <footer class="blockquote-footer">Annonym Bedfordshire 2015</footer>
+    </blockquote>
+
+    <blockquote class="blockquote">
+        <p class="mb-0">Nettie worked very closely with my family due to Extreme behaviour's that my Son was showing. With Nettie's help a diagnosis was got, so our life together is much better. Things are so much better now we understand his condition. We will be forever grateful to her." </p>
+        <footer class="blockquote-footer">Mother of ASD Child. NM Oxon</footer>
+    </blockquote>
+
+</div>
+
 
 <!--  **********************  -->
 <hr>
