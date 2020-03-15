@@ -8,16 +8,16 @@
     <!-- <link rel="icon" type="image/png" href="{{ asset('favicon.png') }}"> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="{{ asset('resources/css/style.css') }}">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="../resources/css/style.css">
-    <title>Friends of Challenging Behaviour - {{$title['pagetitle']}} </title>
+    <title>Challenging-Behaviour Counselling Wellbeing Foundation - {{$title['pagetitle']}} </title>
 </head>
 
 <body>
     <div class="bs-component">
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
-            <a class="navbar-brand" href="#">Friends of Challenging Behaviour</a>
+            <a class="navbar-brand" href="#">Challenging-Behaviour Counselling Wellbeing Foundation</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -44,6 +44,6 @@
         </nav>
     </div>
     <h1>
-        <a href="{{URL('/')}}">Friends of Challenging Behaviour</a>
+        <a href="{{URL('/')}}">Challenging-Behaviour Counselling Wellbeing Foundation</a>
     </h1>
     @include('inc.messages')

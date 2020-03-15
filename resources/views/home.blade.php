@@ -7,60 +7,6 @@
 <p>We work within a Person Centered Approach using variety of styles of Creative therapy, Behaviour Strategies, General Psychology, Psychoeducation, Counselling and Life coach therapies. </p>
 <p>Feel free to look around our website and if you have any comments or questions, please do contact us. Check back later for new updates to our website. There's much more to come</p>
 </div>
-<div class="parenting" id="parenting">
-    <h2>Parenting Advice & Workshops</h2>
-<div class="container">
-    <h4>Parenting workshops</h4>
-    <p>Watch out for information. If there is specific parenting needs then let us know by contacting us.</p>
-
-    <p>Topics:</p>
-    <p>
-        <ul>
-            <li>ASD</li>
-            <li>Stealing</li>
-            <li>Tantrums</li>
-            <li>Play</li>
-            <li>Discipline versus Punishment</li>
-
-        </ul>
-    </p>
-</div>
-
-</div>
-<!--  **********************  -->
-<hr>
-<div class="life_coaching" id="life_coaching">
-    <h2>Life Coaching</h2>
-    <div class="container">
-
-    <p>Lost your way? Need to discuss and get practical solutions? Then contact us.</p>
-</div>
-</div>
-<!--  **********************  -->
-<hr>
-<div class="" id="">
-    <h2>Behaviour Strategies</h2>
-    <div class="container">
-
-    <h3>What is Behaviour Strategy work?</h3>
-    <p>Behaviour Strategy work is to help those who have behaviours that are not suiting themselves or suiting situations within society. It is a strategy to help you manage.</p>
-
-    <p>What behaviours do you find Strategies for?</p>
-    <ul>
-        <li>Anxiety strategies</li>
-        <li>Sleep strategies</li>
-        <li>Anger management and strategies</li>
-        <li>Historic negative behaviour patterns</li>
-        <li>Tantrum strategies</li>
-        <li>Weaning strategies</li>
-        <li>Anger strategies</li>
-        <li>Toilet training strategies</li>
-        <li>Relationship strategies</li>
-    </ul>
-</div>
-</div>
-
-
 <!--  **********************  -->
 <hr>
 <div class="meet" id="meet">
@@ -69,166 +15,14 @@
 
 </div>
 
-<!--  **********************  -->
-<hr>
-<div class="charitable_foundations" id="charitable_foundations">
-<div class="container">
-    <h2>Charitable foundation - Friends of Challenging-Behaviour</h2>
-    <h4>Raising funds for Charitable Counselling Work for Children and Adults.</h4>
-
-    <p>This is our Fundraising department for our charitable company Challenging-Behaviour Counselling Wellbeing Foundation. We are able subsidise people with discounted or entirely.</p>
-    <p>If you would like to donate you can do through Paypal: challenging-behaviour@hotmail.co.uk</p>
-    <p>
-        (There is a criteria to be met for discounted and free Counselling, sadly funds are limited so all the people asking will not get full funding)
-    </p>
-
-
-    <h4>Contact details:</h4>
-    <li>Telephone / Text: 07768303640</li>
-    <li>Facebook Page: Friends of Challenging-behaviour </li>
-    <li>Email address: contact@friendsofchallenging-behaviour.org.uk</li>
-    <li>Web address: https://www.friendsofchallenging-behaviour.org.uk/</li>
-
-    <p>If you would like to join our team in raising funds to improve peoples lives then please contact us... Every little helps.</p>
-    <p>Thank you to our current fundraisers:</p>
-    <p>Nettie, Pat, Glenda, Mark</p>
-
-    <h4>Committee Members: As of March 2019</h4>
-
-    <ul>
-        <li>Acting Chairperson: Nettie (Founder)</li>
-        <li>Treasure & Accountant: Sarah (Trustee)</li>
-        <li>Secretary: Available</li>
-        <li>Policy coordinator: Shirley (Trustee)</li>
-        <li>Media Coordinator: Available</li>
-        <li>Fundraising Coordinator: Available</li>
-        <li>Wellbeing Coordinator: </li>
-        <li>Trustee: </li>
-
-    </ul>
-    <h4>Our successful funding results:</h4>
-    -chart here -
-    <table class="table table-striped">
-        <tr>
-            <th>Year</th>
-            <th>Number of people funded</th>
-        </tr>
-        <tr>
-            <td>2020</td>
-            <td>23</td>
-        </tr>
-        <tr>
-            <td>2019</td>
-            <td>21</td>
-        </tr>
-        <tr>
-            <td>2018</td>
-            <td>14</td>
-        </tr>
-        <tr>
-            <td>2017</td>
-            <td>9</td>
-        </tr>
-        <tr>
-            <td>2016</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>2015</td>
-            <td>4</td>
-        </tr>
-    </table>
-
-
-    <h4>Donate:</h4>
-
-    <p>Paypal: challenging-behaviour@hotmail.co.uk</p>
-
-    <p>Reference: donation Friends of Challenging-Behaviour</p>
-    <p>Thank you! every little helps!</p>
-
-    <p>We'll discuss how can we setup paypal payment for these. Beatrix</p>
-
-    <ul>
-        <li>Fund a Child for 1:1 Therapy £35.00</li>
-        <li>Fund a Child for Group Therapy £10.00</li>
-        <li>Fund an Adult for 1:1 Therapy £40.00</li>
-    </ul>
-
-</div>
-</div>
-
-<!--  **********************  -->
-<hr>
-<div class="counselling" id="counselling">
-    <h2>Counselling</h2>
-    <div class="container">
-
-    <h4>Charitable Criteria</h4>
-    <p>For 1:1 Counselling those that are at need of mental health help, disadvantaged and vulnerable, through life circumstances, ill-health, disability, with financial deprivation can apply.</p>
-
-    <p>For Wellbeing groups anyone needing Mental Health Wellbeing can attend. Groups may have their own criteria set out.</p>
-
-    <h4>Referrals</h4>
-    <p>Referrals can be self referrals (evidence will be required) or a professional can refer on your behalf.</p>
-
-    <h4>How to Apply for Charitable Counselling</h4>
-    <p>Send a request to <a href="#contact_us">Challenging-Behaviour@hotmail.co.uk</a></p>
-
-    <h4>Financial Expenses</h4>
-    <p>
-        This is assessed on the Government guidelines within poverty scales. Some clients will not have to pay for services.
-        Some clients maybe asked for a small donation for services as above the scale. Some clients will not fit the criteria for Charitable funded but will be offered services.
-    </p>
-    <h4>Criteria for Clients</h4>
-    <p>Not limited to but criteria is Domestic violence. Child abuse. Bullying. Long term illness. ASD negative mental health. Carers of.</>
-
-
-</div>
-</div>
 
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
-    <h2>Wellbeing groups</h2>
+    <h2>Supporters</h2>
     <div class="container">
 
-    <table class="table table-striped">
-        <tr>
-            <th>Group name</th>
-            <th>Times</th>
-            <th>Details</th>
-        </tr>
-        <tr>
-            <td>Art for Wellbeing for 16+</td>
-            <td>Wednesdays 7.30pm-9.30pm</td>
-            <td>
-                Run by Jo & Nettie - Donation £2 bring your own project, £5 do one of our project
-            </td>
-        </tr>
-        <tr>
-            <td>Children's Group</td>
-            <td>Thursdays 5.30pm-6pm</td>
-            <td>For SEN Children</td>
-        </tr>
-        <tr>
-            <td>Martial Arts Kick Boxing for children & young people</td>
-            <td></td>
-            <td>
-                Run by Coach Andy from Temtdlar Martial Arts - Supported by Volunteers and Counsellors - Donation £2.50
-            </td>
-        </tr>
-    </table>
-
-</div>
-</div>
-
-<!--  **********************  -->
-<hr>
-<div class="publications" id="publications">
-    <h2>Supporters' Page</h2>
-    <div class="container">
-
+    <h4>Friends of Challenging-Behaviour</h4>
     <h4>Entertainment</h4>
 
     <li>Band Entertainment: Con-Tribute Contact: 07951240937</li>
@@ -271,6 +65,161 @@
 </div>
 </div>
 
+
+<!--  **********************  -->
+<hr>
+<div class="charitable_foundations" id="charitable_foundations">
+<div class="container">
+    <h2>Charitable foundation - Friends of Challenging-Behaviour</h2>
+    <h4>Raising funds for Charitable Counselling Work for Children and Adults.</h4>
+
+    <p>This is our Fundraising department for our charitable company Challenging-Behaviour Counselling Wellbeing Foundation. We are able subsidise people with discounts or entirely.</p>
+    <p>If you would like to donate you can do through Paypal: challenging-behaviour@hotmail.co.uk</p>
+    <p>
+        (There is a criteria to be met for discounted and free Counselling, sadly funds are limited so all the people asking will not get full funding)
+    </p>
+
+
+    <h4>Contact details:</h4>
+    <li>Telephone / Text: <a href="tel:07768303640" >07768303640</a></li>
+    <li>Facebook Page: <a href="https://www.facebook.com/challengingbehaviourfoundation/" target="_blank">Friends of Challenging-behaviour</a> </li>
+    <li>Email address: <a href="mailto:challenging-behaviour@hotmail.co.uk">challenging-behaviour@hotmail.co.uk</a></li>
+    <li>Founder web address: <a href="https://www.help-with-challenging-behaviour.co.uk" target="_blank">https://www.help-with-challenging-behaviour.co.uk</a></li>
+
+    <p>If you would like to join our team in raising funds to improve peoples lives then please contact us... Every little helps.</p>
+    <p>Thank you to our current fundraisers:</p>
+    <p>Nettie, Pat, Glenda, Mark</p>
+
+    <h4>Committee Members: As of March 2019</h4>
+
+    <ul>
+        <li>Acting Chairperson: Nettie (Founder)</li>
+        <li>Treasure & Accountant: Sarah (Trustee)</li>
+        <li>Secretary: Available</li>
+        <li>Policy coordinator: Shirley (Trustee)</li>
+        <li>Media Coordinator: Available</li>
+        <li>Fundraising Coordinator: Available</li>
+        <li>Wellbeing Coordinator: </li>
+        <li>Grant Finder: Andrea Worboys</li>
+        <li>Trustee: </li>
+
+    </ul>
+    <h4>Our successful funding results:</h4>
+    -chart here -
+    <div class="table-responsive">
+					
+    <table class="table table-striped">
+        <tr>
+            <th>Year</th>
+            <th>Number of people funded</th>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>23</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>21</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>14</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>2015</td>
+            <td>4</td>
+        </tr>
+    </table>
+    </div>
+
+    <h4>Donate:</h4>
+
+    <p>Donations can be made through Paypal: challenging-behaviour@hotmail.co.uk</p>
+
+    <p>Reference: donation Friends of Challenging-Behaviour</p>
+
+    <p>We'll discuss how can we setup paypal payment for these. Beatrix</p>
+
+    <ul>
+        <li>Fund a Child for 1:1 Therapy £35.00</li>
+        <li>Fund a Child for Group Therapy £10.00</li>
+        <li>Fund an Adult for 1:1 Therapy £40.00</li>
+    </ul>
+
+</div>
+</div>
+
+<!--  **********************  -->
+<hr>
+<div class="counselling" id="counselling">
+    <h2>Counselling</h2>
+    <div class="container">
+
+    <h4>Charitable Criteria</h4>
+    <p>For 1:1 Counselling those that are at need of mental health help, disadvantaged and vulnerable, through life circumstances, ill-health, disability, with financial deprivation can apply.</p>
+
+    <p>For Wellbeing groups anyone needing Mental Health Wellbeing can attend. Groups may have their own criteria set out.</p>
+
+    <h4>Referrals</h4>
+    <p>Referrals can be self referrals (evidence will be required) or a professional can refer on your behalf. <a href="">Download form from here</a>, or request us to send it to you by email <a href="">here</a>.</p>
+
+    <h4>Criteria for Clients</h4>
+    <p>Not limited to but criteria is Domestic violence. Child abuse. Bullying. Long term illness. ASD negative mental health. Carers of.</>
+
+    <h4>How to Apply for Charitable Counselling</h4>
+    <p>Send a request to <a href="#contact_us">Challenging-Behaviour@hotmail.co.uk</a></p>
+
+    <h4>Financial Expenses</h4>
+    <p>
+        This is assessed on the Government guidelines within poverty scales. Some clients will not have to pay for services.
+        Some clients maybe asked for a small donation for services as above the scale. Some clients will not fit the criteria for Charitable funded but will be offered services.
+    </p>
+
+</div>
+</div>
+
+<!--  **********************  -->
+<hr>
+<div class="publications" id="publications">
+    <h2>Wellbeing groups</h2>
+    <div class="container">
+    <div class="table-responsive">
+
+    <table class="table table-striped">
+        <tr>
+            <th>Group name</th>
+            <th>Times</th>
+            <th>Website</th>
+        </tr>
+        <tr>
+            <td>Art for Wellbeing for 16+</td>
+            <td>Wednesdays 7.30pm-9.30pm</td>
+            <td>
+                <!-- Run by Jo & Nettie - Donation £2 bring your own project, £5 do one of our project -->
+            </td>
+        </tr>
+        <tr>
+            <td>Martial Arts Kick Boxing for children & young people</td>
+            <td></td>
+            <td>
+                <!-- Run by Coach Andy from Temtdlar Martial Arts - Supported by Volunteers and Counsellors - Donation £2.50 -->
+            </td>
+        </tr>
+    </table>
+
+</div>
+</div>
+</div>
+
+
 <!--  **********************  -->
 <hr>
 <div class="publications" id="publications">
@@ -280,13 +229,8 @@
     <h3>Books written and / or illustrated by Nettie Forsyth</h3>
     <a href="https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ANettie+Forsyth&s=relevancerank&text=Nettie+Forsyth&ref=dp_byline_sr_book_1" target="_blank">Nettie's books on Amazon.com</a>
 
-    <p>
-        We can put an API here with all your amazon books, just like this one: <a href="https://dgloriaesyes.000webhostapp.com/projects/api_nyt_books/index.php/books" target="_blank">NYT api by Beatrix</a>
-
-    </p>
-    <p>
-        We can put other websites as well where they sell your books.
-    </p>
+    <p>We can put an API here with all your amazon books, just like this one: <a href="https://dgloriaesyes.000webhostapp.com/projects/api_nyt_books/index.php/books" target="_blank">NYT api by Beatrix</a></p>
+    <p>We can put other websites as well where they sell your books.</p>
 
     <br>
     <p>Books can be ordered from <a href="https://wordzetcetera.org.uk/the-book-shop">the wordzetcetera.org.uk website</a>.</p>
@@ -304,13 +248,19 @@
 <div class="pricing" id="pricing">
     <h2>Service Pricing</h2>
     <div class="container">
-    <h4>One to one counselling prices as of January 2018</h4>
+    <h4>One to one counselling prices as of April 2020</h4>
+    <div class="table-responsive">
 
     <table class="table table-striped">
         <tr>
             <th>Description</th>
             <th>Duration</th>
             <th>Fee</th>
+        </tr>
+        <tr>
+            <td>Adult Counselling 16-21 years old</td>
+            <td>? min </td>
+            <td>£40</td>
         </tr>
         <tr>
             <td>Adult Counselling </td>
@@ -333,12 +283,17 @@
             <td>£70 </td>
         </tr>
         <tr>
+            <td>Couple Counselling</td>
+            <td>120 min </td>
+            <td>£90 </td>
+        </tr>
+        <tr>
             <td>Students </td>
             <td>60 min </td>
-            <td>£30</td>
+            <td>£35</td>
         </tr>
     </table>
-
+    </div>
     <h4>Conditions and Options</h4>
 
     <ul>
@@ -398,7 +353,7 @@
 
     <blockquote class="blockquote">
         <p class="mb-0">My life was blessed by meeting Nettie. I thought that this was it; Anxiety and Alcoholism, Domestic Violence Trauma. On a family member saying counselling or it; I chose another chance at counselling. Nettie is unlike most other counsellors I have met. She saved my Life and gave me back my Family. I will be eternally grateful for the help she gave me.</p>
-        <footer class="blockquote-footer">Annonym Bedfordshire 2015</footer>
+        <footer class="blockquote-footer">Anonym Bedfordshire 2015</footer>
     </blockquote>
 
     <blockquote class="blockquote">
